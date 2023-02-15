@@ -1,0 +1,14 @@
+E:\如家财务系统\如家财务系统\bin\Debug\如家财务系统.exe
+E:\如家财务系统\如家财务系统\bin\Debug\如家财务系统.pdb
+E:\如家财务系统\如家财务系统\obj\Debug\如家财务系统.csprojResolveAssemblyReference.cache
+E:\如家财务系统\如家财务系统\obj\Debug\App.g.cs
+E:\如家财务系统\如家财务系统\obj\Debug\如家财务系统_MarkupCompile.cache
+E:\如家财务系统\如家财务系统\obj\Debug\如家财务系统.g.resources
+E:\如家财务系统\如家财务系统\obj\Debug\如家财务系统.Properties.Resources.resources
+E:\如家财务系统\如家财务系统\obj\Debug\如家财务系统.csproj.GenerateResource.Cache
+E:\如家财务系统\如家财务系统\obj\Debug\如家财务系统.exe
+E:\如家财务系统\如家财务系统\obj\Debug\如家财务系统.pdb
+E:\如家财务系统\如家财务系统\obj\Debug\frmLogin.baml
+E:\如家财务系统\如家财务系统\obj\Debug\frmMain.baml
+E:\如家财务系统\如家财务系统\obj\Debug\frmLogin.g.cs
+E:\如家财务系统\如家财务系统\obj\Debug\frmMain.g.cs
